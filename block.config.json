@@ -1,0 +1,23 @@
+{
+  "blockId": "9zeO7zaeq7vF40E-mUU_S",
+  "name": "safalui",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/uttahb/safaltest.git",
+    "ssh": "git@github.com:uttahb/safaltest.git",
+    "branch": "block_safalui"
+  },
+  "parentBlockIDs": [
+    "fMbH3Q1S_xugy2lz5FyWB",
+    "qgI8ocKHHfpINtWGjRKEp",
+    "Z0vUnQ_jLi9MFYj9kVhRK"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
