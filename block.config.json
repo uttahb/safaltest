@@ -18,7 +18,11 @@
   "isPublic": true,
   "dependencies": {
     "safalui": {
-      "directory": "safalui"
+      "directory": "safalui",
+      "versionId": "531858sAhBQxbc8ejr3C9",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "okowe97CldEI1gpyJN7E5"
 }
