@@ -1,0 +1,21 @@
+{
+  "blockId": "F6l2rqxkMxuSff8s3zR67",
+  "name": "safalfn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/uttahb/safaltest.git",
+    "ssh": "git@github.com:uttahb/safaltest.git",
+    "branch": "block_safalfn"
+  },
+  "parentBlockIDs": [
+    "fMbH3Q1S_xugy2lz5FyWB",
+    "qgI8ocKHHfpINtWGjRKEp"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
