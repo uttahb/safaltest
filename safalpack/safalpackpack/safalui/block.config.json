@@ -3,8 +3,8 @@
   "name": "safalui",
   "type": "ui-elements",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/safaltest.git",
+    "ssh": "git@github.com:uttahb/safaltest.git",
     "branch": "block_safalui"
   },
   "parentBlockIDs": [
