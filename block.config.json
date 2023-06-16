@@ -1,0 +1,24 @@
+{
+  "blockId": "Z0vUnQ_jLi9MFYj9kVhRK",
+  "name": "safalpackpack",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/uttahb/safaltest.git",
+    "ssh": "git@github.com:uttahb/safaltest.git",
+    "branch": "block_safalpackpack"
+  },
+  "parentBlockIDs": [
+    "fMbH3Q1S_xugy2lz5FyWB",
+    "qgI8ocKHHfpINtWGjRKEp"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "safalui": {
+      "directory": "safalui"
+    }
+  }
+}
