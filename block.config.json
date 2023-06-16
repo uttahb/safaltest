@@ -17,10 +17,16 @@
   "isPublic": true,
   "dependencies": {
     "safalfn": {
-      "directory": "safalfn"
+      "directory": "safalfn",
+      "versionId": "n-gCQeCCX8GNj_N28mPwB",
+      "version": "0.0.1"
     },
     "safalpackpack": {
-      "directory": "safalpackpack"
+      "directory": "safalpackpack",
+      "versionId": "okowe97CldEI1gpyJN7E5",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "Mew1_zb4Fjgo_no3OjbQX"
 }
